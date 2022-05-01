@@ -17,7 +17,7 @@ A Web forum is a website or section of a website that allows visitors to communi
 - HTML
 
 - CSS
-- CSS
+
 - JavaScript
 - Bootstrap
 ## Backend
